@@ -1,4 +1,4 @@
-# 5-Bounce Physics Simulation & Calculus Derivatives
+# Calculus I MAT-140 - Bounce Physics Simulation & Calculus Derivatives
 
 An interactive, responsive single-page web application that simulates a bouncing ball undergoing physics-based height decay across exactly 5 bounces. The simulator graphs the mechanical motion alongside its first derivative (Velocity) and second derivative (Acceleration) in real time.
 
