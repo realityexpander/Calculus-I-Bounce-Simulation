@@ -2,6 +2,9 @@
 
 An interactive, responsive single-page web application that simulates a bouncing ball undergoing physics-based height decay across exactly 5 bounces. The simulator graphs the mechanical motion alongside its first derivative (Velocity) and second derivative (Acceleration) in real time.
 
+<img width="421" alt="image" src="https://github.com/user-attachments/assets/f0c3481b-5b5e-4e71-9aa9-1fbad74dbbe2" />
+
+
 ## 🚀 Features
 
 - **Real-Time Physics Engine:** Accurately models kinetic energy loss using a customizable Coefficient of Restitution ($e$).
