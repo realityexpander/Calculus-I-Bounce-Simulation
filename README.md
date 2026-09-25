@@ -2,7 +2,8 @@
 
 An interactive, responsive single-page web application that simulates a bouncing ball undergoing physics-based height decay across exactly 5 bounces. The simulator graphs the mechanical motion alongside its first derivative (Velocity) and second derivative (Acceleration) in real time.
 
-<img width="421" alt="image" src="https://github.com/user-attachments/assets/f0c3481b-5b5e-4e71-9aa9-1fbad74dbbe2" />
+<img width="420" alt="image" src="https://github.com/user-attachments/assets/b76cf57d-45eb-4611-9366-026f5b3dced5" />
+
 
 Link to Live app: https://realityexpander.github.io/Calculus-I-Bounce-Simulation/
 
