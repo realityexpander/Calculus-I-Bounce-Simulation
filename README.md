@@ -6,6 +6,8 @@ An interactive, responsive single-page web application that simulates a bouncing
 
 Link to Live app: https://realityexpander.github.io/Calculus-I-Bounce-Simulation/
 
+Link to conversation: https://share.google/aimode/6tB65UM5rrTYGHmWQ
+
 ## 🚀 Features
 
 - **Real-Time Physics Engine:** Accurately models kinetic energy loss using a customizable Coefficient of Restitution ($e$).
@@ -13,7 +15,7 @@ Link to Live app: https://realityexpander.github.io/Calculus-I-Bounce-Simulation
 - **Interactive Controls:** Dynamic sliders to adjust Gravity ($g$), Bounce Efficiency ($e$), and Initial Drop Height ($H_0$).
 - **Synchronized Tracking Crosshairs:** Cross-plot visual markers that lock onto precise timeline states during playback.
 - **High-DPI Support:** Crisp, anti-aliased canvas rendering optimized for Retina and high-resolution screens.
-
+- 
 ## 📐 Mathematical Model
 
 The simulator tracks continuous cinematic equations segmented by boundary impacts:
