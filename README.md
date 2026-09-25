@@ -4,6 +4,7 @@ An interactive, responsive single-page web application that simulates a bouncing
 
 <img width="421" alt="image" src="https://github.com/user-attachments/assets/f0c3481b-5b5e-4e71-9aa9-1fbad74dbbe2" />
 
+Link to Live app: https://realityexpander.github.io/Calculus-I-Bounce-Simulation/
 
 ## 🚀 Features
 
